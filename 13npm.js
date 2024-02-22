@@ -1,4 +1,4 @@
-//npm - gobal command cines with node
+//npm - gobal command lines with node
 // npm --version
 
 // local dependency - use ut only in this particular project
@@ -16,3 +16,4 @@ const _ =require('lodash')
 const a=['a',['b',['c',['d']]]]
 const anew= _.flattenDeep(a)
 console.log(anew)
+console.log("Hello People")
